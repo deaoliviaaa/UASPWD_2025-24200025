@@ -1,0 +1,23 @@
+{
+  "name": "uaspwd_2025-24200025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deaoliviaaa/UASPWD_2025-24200025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deaoliviaaa/UASPWD_2025-24200025/issues"
+  },
+  "homepage": "https://github.com/deaoliviaaa/UASPWD_2025-24200025#readme",
+  "description": ""
+}
